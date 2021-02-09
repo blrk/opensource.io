@@ -17,4 +17,4 @@ echo $y;
 </body>
 </html>
 
-[Back to mainpage](https://github.com/blrk/opensource.io/wiki)
+<a href="https://github.com/blrk/opensource.io/wiki"> Back to main page </a> 
